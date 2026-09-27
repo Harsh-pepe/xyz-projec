@@ -1,2 +1,8 @@
-# xyz-projec
-Solving the customer churn problem for my friends company.
+#Description
+Buildin a dashboard for sales data.
+
+#Tech-stack:
+Python
+SQL
+Excel
+Python Libraries (Pandas, matplotlib, numpy)
